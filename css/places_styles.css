@@ -1,0 +1,27 @@
+body {
+  background-color: 	#5f9ea0;
+  font-family: monospace;
+  color: 	#0e1111;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+  color: #602320;
+}
+
+h2 {
+  font-family: cursive;
+  font-style: oblique;
+  color: #003333;
+  text-align: center;
+}
+
+h3 {
+  font-weight: bold;
+  text-align: left;
+}
+
+p{
+  font-weight: lighter;
+}
