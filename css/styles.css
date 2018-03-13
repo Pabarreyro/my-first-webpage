@@ -1,5 +1,5 @@
 h1 {
-  color: #0000ff;
+  color: #ff0000;
   text-align: center;
 }
 
@@ -8,11 +8,28 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-family: cursive;
+  font-style: normal;
+  text-align: center;
+  font-weight: bolder;
+  line-height: normal;
+}
+
 p {
   font-family: sans-serif;
+  font-weight: lighter;
+  text-align: center;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+  text-align: center;
+}
+
+ol {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
 }
